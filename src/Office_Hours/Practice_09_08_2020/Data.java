@@ -1,4 +1,4 @@
-package Practice_09_08_2020;
+package Office_Hours.Practice_09_08_2020;
 
 public class Data {
     private int a = 100;
