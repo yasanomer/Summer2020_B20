@@ -1,6 +1,6 @@
 package day48_Inheritance.Phones;
 /*
-2. create a subclass of Phone called iPhone
+2. create a subclass of Phone called IPhone
 				initialize all the variables using constructor & static block
 				methods: call, text, selfie, setInfo, toString, faceTime
  */
